@@ -28,6 +28,12 @@ It combines **LAN scanning, Wi‑Fi analysis, and real‑time signal visualizati
   - Futuristic dark‑mode styling with color‑coded legends
 
 ---
+### Download SFX ARchive which contains EXE:
+ [Her](https://github.com/GH0STH4CKER/Net-Inspector/releases/download/v1/NetInspector.sfx.exe)
+
+https://github.com/user-attachments/assets/ced8651f-0481-4500-81b1-3394937b8651
+
+
 
 ## 🚀 Getting Started
 
